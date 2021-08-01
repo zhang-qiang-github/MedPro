@@ -5,6 +5,7 @@
 请注意：该软件所在路径，以及之后的存储路径，不能包含中文。
 
 update: [MedPro 1.3.15](https://github.com/zhang-qiang-github/MedPro/releases/tag/v1.3.15)
+update: [MedPro 1.4.9](https://github.com/zhang-qiang-github/MedPro/releases/tag/v1.4.9)
 ***
 
 ### 基础功能
@@ -16,3 +17,9 @@ update: [MedPro 1.3.15](https://github.com/zhang-qiang-github/MedPro/releases/ta
 
 
 &emsp;&emsp;&emsp; <img src="figure/multi-view.png" width="600">
+
+### MPR功能
+
+点击主界面 3D MPR 按钮，进入到MPR界面，实现对图像多角度阅片。
+
+&emsp;&emsp;&emsp; <img src="figure/MPR.png" width="600">
